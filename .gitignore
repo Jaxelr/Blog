@@ -57,3 +57,17 @@ typings/
 # dotenv environment variables file
 .env
 
+# VS Code
+.vscode/
+
+# Deployment folder
+public/
+deploy*/
+
+# OSX 
+.DS_Store
+
+# Windows
+Thumbs.db
+
+db.json
