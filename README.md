@@ -1,1 +1,1 @@
-# Source code from the blog site.
+# Source from the blog site.
