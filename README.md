@@ -1,5 +1,5 @@
-# Blog site of JaxelR.
+# My own custom blog site served at jaxelr.github.io.
 
-Ill probably mostly be blogging about .net, javascript, maybe some F#, maybe some Python. 
+Ill be blogging about .net, javascript, maybe some F#, maybe some Python and stuff not related to tech. 
 
-This could change tho since i have no idea what am doing, and i kind of dont trust medium or other blogging sites to own words of people.
+
