@@ -1,7 +1,7 @@
 ---
 title: Switching from Google
 date: 2017-12-11 21:47:52
-tags:
+tags: Browsers SearchEngines Firefox Chrome
 ---
 
 
