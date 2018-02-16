@@ -229,7 +229,10 @@ a {
 
  So after almost a year of dabbling with javascript front end fx and libraries, my initial plan is to go full fledge on using Vue as basically a gateway library and see how it goes from there in terms of the comparison with React. So far, i see no reason to use React over Vue, even though i am completely aware that React has a LOT of custom components on Github. 
 
+ *Note: Since i use mostly .net, i've created a template to use with single file components and vue on [Github](https://github.com/Jaxelr/VueTemplate)* 
+
 
  ### Angular 2...ermm
 
  As a footnote, i thought i should include that since i dont plan on creating big apps, i always thought Angular 2 was out of the question. I do find Typescript very appealing, but at best is just too much ceremony to simply make an app for me. Im sure big teams will have usability for it, but for smaller teams i just dont feel the need to punish us with so much complexity.
+

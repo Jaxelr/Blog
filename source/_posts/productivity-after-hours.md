@@ -4,6 +4,7 @@ date: 2018-01-30 20:57:52
 tags:
 ---
 
+
 ## Mantras and Katas
 
 One of the biggest challenges as a parent is to find the time to do what you love while also dedicating the necessary time to your kids and family. Children, especially very young ones, require plenty of attention. In my part, the easiest challenge in terms of time allocation is to have some form of structure before hand, so that when time becomes available, you have the capability to choose from a specific set of things to do.
@@ -54,5 +55,4 @@ A time for the reviewal of the information that is to be done must be scheduled.
 
 The step of making the task should be one used specifically for the thing that was scheduled for (if not, reschedule, if busy, simply throw a reminder back to reschedule). Avoid the trap of wondering  in favor of other chores, since if those are necessary they must be thrown into the schedule.
 
-
-All this patterns require serious revision and practice since I usually just wonder around while getting entertained with any plausible thing. This post is an active reminder to not do that and keep the focus on the goal.
+All these patterns require frequent revisions practice and discipline since I usually just wonder around while getting entertained with any plausible thing. This post is an __active__ reminder to not do that and keep the focus on the goal.
