@@ -18,10 +18,10 @@ The frequency varies depending on the day, with weekdays being the most active d
 2. Keep the usual ratio to determinehow much time is consumed.
 3. Determine which moments to skip the activity and focus on other relevant activities (Think of details...).
 
-
 #### Thursday, February 15th, 2018:
 
-I consciously checked my rss feeds at least 10 times today. These are the ones i remember vividly today:
+I consciously checked my rss feeds at least 10 times today. 
+
     - When i woke up.
     - After shower.
     - Bathroom break
@@ -33,4 +33,16 @@ I consciously checked my rss feeds at least 10 times today. These are the ones i
     - Walking into the car.
     - Prior to writing these posts (8 pm)
 
+#### Friday, February 16th, 2018:
 
+With the help of reminders could finally check all the times i marked:
+
+    - 4:30 am woke up and check them.
+    - 8:00 am before preparing for work.
+    - 8:37 am while driving to work on red lights.
+    - 12:10 pm at lunch.
+    - 2:27 pm bored at work.
+    - 6:28 before dinner.
+    - 7:30 while at parents house.
+
+So far consciously knowing that i am checking the feeds helps to calm myself of the constant anxiety. Also, im gonna theorize than when im with the kids i barely get time to check them, because i dont feel completely idle.
