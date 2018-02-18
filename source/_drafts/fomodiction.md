@@ -46,3 +46,13 @@ With the help of reminders could finally check all the times i marked:
     - 7:30 while at parents house.
 
 So far consciously knowing that i am checking the feeds helps to calm myself of the constant anxiety. Also, im gonna theorize than when im with the kids i barely get time to check them, because i dont feel completely idle.
+
+#### Saturday, February 17th, 2018:
+
+As theorized, weekends are way more active for me, therefore, i barely check. Also, not so many news and articles are posted on weekends.
+
+    - 7:00 am waking up.
+    - 2:00 pm idle at home.
+    - 8:00 pm at dinner.
+
+Ill see if the pattern continues tomorrow (i suspect it will).
