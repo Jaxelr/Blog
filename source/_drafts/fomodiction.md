@@ -56,3 +56,11 @@ As theorized, weekends are way more active for me, therefore, i barely check. Al
     - 8:00 pm at dinner.
 
 Ill see if the pattern continues tomorrow (i suspect it will).
+
+#### Sunday, February 18th, 2018:
+
+Far less time today, as expected.
+    - 9:00 am waking up.
+    - 9:00 pm going to bed early.
+
+Let see how the tempo goes up tomorrow.
