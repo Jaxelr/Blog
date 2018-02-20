@@ -64,3 +64,14 @@ Far less time today, as expected.
     - 9:00 pm going to bed early.
 
 Let see how the tempo goes up tomorrow.
+
+
+#### Monday, February 19th, 2018:
+
+The average today is lower than expected today:
+
+    - 7:00 am Waking up.
+    - 11:30 am Prior to lunch.
+    - 12:30 pm after lunch.
+    - 1:49 pm idle at work.
+    - 8:07 pm before shower.
