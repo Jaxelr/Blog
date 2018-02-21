@@ -75,3 +75,12 @@ The average today is lower than expected today:
     - 12:30 pm after lunch.
     - 1:49 pm idle at work.
     - 8:07 pm before shower.
+
+#### Tuesday, February 19th, 2018:
+
+The average today is lower than expected today:
+
+    - 9:30 am Morning Articles.
+    - 12:30 pm after lunch.
+    - 2:30 pm idle at work.
+    - 8:07 pm before shower.
