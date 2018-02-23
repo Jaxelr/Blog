@@ -92,3 +92,11 @@ The average today is lower than expected today:
     - 12:00 pm lunch.
     - 2:00 pm idle at work.
     - 7:00 pm before shower.
+
+#### Thursday, February 21st, 2018:
+
+    - 7:00 am waking up
+    - 12:00 pm lunch
+    - 2:00 pm idle 
+    - 8:00 pm before shower
+    - 10:40 pm before sleeping
