@@ -76,7 +76,7 @@ The average today is lower than expected today:
     - 1:49 pm idle at work.
     - 8:07 pm before shower.
 
-#### Tuesday, February 19th, 2018:
+#### Tuesday, February 20th, 2018:
 
 The average today is lower than expected today:
 
@@ -85,7 +85,7 @@ The average today is lower than expected today:
     - 2:30 pm idle at work.
     - 8:07 pm before shower.
 
-#### Wednesday, February 20th, 2018:
+#### Wednesday, February 21st, 2018:
 
     - 4:30 am waking up.
     - 7:30 am before shower.
@@ -93,10 +93,21 @@ The average today is lower than expected today:
     - 2:00 pm idle at work.
     - 7:00 pm before shower.
 
-#### Thursday, February 21st, 2018:
+#### Thursday, February 22nd, 2018:
 
-    - 7:00 am waking up
-    - 12:00 pm lunch
-    - 2:00 pm idle 
-    - 8:00 pm before shower
-    - 10:40 pm before sleeping
+    - 7:00 am waking up.
+    - 12:00 pm lunch.
+    - 2:00 pm idle.
+    - 8:00 pm before shower.
+    - 10:40 pm before sleeping.
+
+#### Friday, February 23rd, 2018:
+
+    - 7:00 am waking up.
+    - 12:00 pm lunch.
+    - 2:00 pm idle at work.
+    - 7:00 pm dinner.
+    - 8:00 pm before shower.
+
+
+After posting basically the average of around a week ive come to the conclusion than on average i should try and use the eating breaks to check the feeds and also be more dissmisive of the idea of a constant feed checking, favoring reading various kindle books on the phone + checking my articles on queue on instapaper.
