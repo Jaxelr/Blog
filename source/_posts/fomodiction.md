@@ -7,7 +7,9 @@ date: 2018-02-15 20:46:26
 
 ## Fomodiction
 
-My biggest current challenge, in terms of controlling my own impulses, is my inhability to let go of my RSS feeds for more than a day. Even though it is a curated list of only around 50 sources, the stream of news is constant and plenty in terms of reading material (Around 800 messages a day). This post is my self documenting journey into managing the anxiety with regards to not checking my feeds.
+Its easy to get distracted/amused when using phones these days. My biggest current challenge in terms of controlling my behavior impulses is my inhability to let go of my RSS feeds for more than a day. Even though it is a curated list of only around 50 sources, the stream of news is a plenty in terms of reading material (Around 1000 articles a day). This post is my self documenting journey into managing the constant anxiety with regards to not checking my feeds.
+
+This anxiety manifests itself into other aspects of my day-to-day routine, but i do hope that in examining this issue specifically, i could use this strategy on other patterns and especially on self examination, which is something I should strive for each day. 
 
 The frequency varies depending on the day, with weekdays being the most active days and weekends being very low. My goal is to separate specific times for the activity and avoid rushing into the phone whenever i feel like i am not doing anything.
 
