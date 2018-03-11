@@ -1,5 +1,5 @@
 ---
-title: Life On  Metrics
+title: Life On Metrics
 tags:
 ---
 
