@@ -6,11 +6,19 @@ date: 2018-03-29 21:05:27
 
 ## Osx git clients
 
-Sourcetree for Macos allows me to have a window with multiple repositories connected by ssh doing recurrent refresh every 15 minutes. The UI is intuitive and allows complex actions (git flow, interactive rebases) which saves me a substantial amount of time. It is also free, which is impressive enough. It feels smooth, and the bugs have been sparse, in my experience.
+Sourcetree for Macos allows me to have a window with multiple repositories connected by ssh doing recurrent refresh every 15 minutes. The UI is intuitive and allows complex actions (git flow, interactive rebases) which saves me a substantial amount of time. It is also free, which is impressive enough. It feels smooth, and the bugs have been sparse, in my experience. Even though the SSH experience leaves a bit to be desired, and i do enjoy the 
 
 ## Windows git clients
 
-Sourcetree 2.0 uses a different UI than the original Sourcetree 1.X. This newer UI doesnt feel as intuitive as the original version. I keep myself on sourcetree 1.9 for now but newer issues have arisen:
+Why i love Sourcetree 1.X:
+
+* It allows me to fetch multiple repositories concurrently (this is by default every 15 mins.)
+* I can switch between repositories by tab.
+* Interactive rebase done easy.
+* Folder organization its really helpful.
+* Git flow compatible. 
+
+Sourcetree 2.0 uses a different UI than the original Sourcetree 1.X. This newer UI doesnt feel as intuitive as the original version. I have kept myself on sourcetree 1.9 for now but newer issues have arisen:
 
 * Managing Github 2 factor auth doesnt work.
 * The app can get sluggish sometimes.
