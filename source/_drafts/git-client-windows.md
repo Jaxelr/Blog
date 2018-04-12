@@ -4,7 +4,7 @@ tags: Git Windows
 date: 2018-03-29 21:05:27
 ---
 
-## Osx git clients
+## macOS git clients
 
 Sourcetree for Macos allows me to have a window with multiple repositories connected by ssh doing recurrent refresh every 15 minutes. The UI is intuitive and allows complex actions (git flow, interactive rebases) which saves me a substantial amount of time. It is also free, which is impressive enough. It feels smooth, and the bugs have been sparse, in my experience. Even though the SSH experience leaves a bit to be desired, and i do enjoy the 
 

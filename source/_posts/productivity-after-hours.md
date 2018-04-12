@@ -4,7 +4,6 @@ date: 2018-01-30 20:57:52
 tags: Habits Productivity
 ---
 
-
 ## Mantras and Katas
 
 One of the biggest challenges as a parent is to find the time to do what you love while also dedicating the necessary time to your kids and family. Children, especially very young ones, require plenty of attention. In my part, the easiest challenge in terms of time allocation is to have some form of structure before hand, so that when time becomes available, you have the capability to choose from a specific set of things to do.
