@@ -5,7 +5,7 @@ date: 2018-05-16
 ---
 # Interviewing the Interviewee
 
-In the tech market, the interviewing process is a great chance for individuals to discuss and evaluate topics that companies should prioritize. These are some of the relevant points i look for in a company with regards to work culture/environment.
+In the tech market, the interviewing process is a great chance for individuals to discuss and evaluate topics that companies should prioritize. These are some of the relevant points i look for in a company with regards to work culture/environment. 
 
 ## Tech Stack
 
@@ -17,7 +17,7 @@ No single methodological concept is the key to success. Given this fact, the pro
 
 ## Infrastructure
 
-(--Missing details here--)
+Although a cloud based infrastructure might sound appealing, the truth is that the As a Service approach is lacking on diagnostic and detailed information unless a plan has been established to allocate the necessary debugging and tracing information. Having the ability to phyisically connect to the server and/or virtual machine provides certain advantages and empowerment to the individuals involved in the production process. The advantages of using a platform as a service are the lack of effort in terms of configuring and maintaining the instances, but planning ahead and providing a decent feedback infrastructure is paramount for providing the devs with the ability to react quickly and timely to production issues.
 
 ## Open Source
 
@@ -25,4 +25,4 @@ The biggest tech companies of the world are constantly giving back to the commun
 
 ## Testing (Unit/Integration)
 
-(--Missing details here--)
+All code without tests can be considered legacy code. In order to maintain a codebase, tests are needed to allow refactorings and code enhancements. I am painfully aware that not all companies do follow this logic of including tests as part of the deployment. But the care of your codebase is reflected in the capabilities it provides its source, and the importance of Unit/Integration tests has to be understood to provide long term support and avoid typial pitfalls on development lifecycles.
