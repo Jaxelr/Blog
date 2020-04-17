@@ -1,5 +1,5 @@
 # About Me
 
-![Puertorrican](https://upload.wikimedia.org/wikipedia/commons/e/e2/Nuvola_Puerto_Rican_flag.svg)
+For the past 15 years i've been working on software development and tech related fields. Although unoficially, ive been hacking around with computers for around 20 years or so. Im a proud alumn of the University of Puerto Rico, and Im currently a Partner on a software development consulting firm, where ive served as Technical Lead for the past 5 years.
 
-For the past 10 years i've been oficially working on software, while unoficially ive been hacking around with software around 20 years. You can find me on [Twitter](www.twitter.com/jaxelr) surely. Geeking out or complaining about the sorry state of deving.
+You can find me most of my hobbies or personal projects on [Github](https://github.com/Jaxelr/). You can also ping me on [Twitter](www.twitter.com/jaxelr) geeking out about vintage hardware and/or complaining about the gigantic cyclomatic complexity we nowadays endure.
